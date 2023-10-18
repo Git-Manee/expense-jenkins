@@ -7,4 +7,4 @@
         name: test1
         password: admin123  #//jenkins UI password
         url: http://172.31.91.152:8080 #//jenkins server private IP
-        user: Admin-MK #//jenkins UI user name
+        user: admin #//jenkins UI user name
