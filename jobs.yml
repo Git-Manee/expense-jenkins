@@ -25,7 +25,7 @@
         user: "{{jenkins_user}}"
       vars:
         repo_name: backend
-        aut_trigger: "true"
+        auto_trigger: "true"
 
     - name: Create Jenkins Job - Expense Parameters
       community.general.jenkins_job:
